@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\bin\Debug\net6.0\patika_degiskenlerve veritipleri.exe
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\bin\Debug\net6.0\patika_degiskenlerve veritipleri.deps.json
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\bin\Debug\net6.0\patika_degiskenlerve veritipleri.runtimeconfig.json
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\bin\Debug\net6.0\patika_degiskenlerve veritipleri.dll
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\bin\Debug\net6.0\patika_degiskenlerve veritipleri.pdb
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\obj\Debug\net6.0\patika_degiskenlerve veritipleri.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\obj\Debug\net6.0\patika_degiskenlerve veritipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\obj\Debug\net6.0\patika_degiskenlerve veritipleri.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\obj\Debug\net6.0\patika_degiskenlerve veritipleri.AssemblyInfo.cs
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\obj\Debug\net6.0\patika_degiskenlerve veritipleri.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\obj\Debug\net6.0\patika_degiskenlerve veritipleri.dll
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\obj\Debug\net6.0\refint\patika_degiskenlerve veritipleri.dll
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\obj\Debug\net6.0\patika_degiskenlerve veritipleri.pdb
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\obj\Debug\net6.0\patika_degiskenlerve veritipleri.genruntimeconfig.cache
+C:\Users\gokha\Desktop\patika_degiskenlerve veritipleri\obj\Debug\net6.0\ref\patika_degiskenlerve veritipleri.dll
