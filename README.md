@@ -1,0 +1,2 @@
+# Patika_degisken_ve_veritipleri
+Patika_degisken_ve_veritipleri
